@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sandwich Menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="FraIMC_txtIntro">IMC</string>
+    <string name="FraIMC_edtAlt">Altura (m)</string>
+    <string name="FraIMC_edtPeso">Peso (kg)</string>
+    <string name="Fra_btnCalc">Calcular</string>
+
+    <string name="FraSoma_txtIntro">Adição</string>
+    <string name="Fra_edtN1">1º número</string>
+    <string name="Fra_edtN2">2º número</string>
+
+    <string name="FraSub_txtIntro">Subtração</string>
+
+    <string name="FraMult_txtIntro">Multiplicação</string>
+
+    <string name="FraDivi_txtIntro">Divisão</string>
+    <string name="mni_IMC">IMC</string>
+    <string name="mni_Soma">Soma</string>
+    <string name="mni_Sub">Subtração</string>
+    <string name="mni_Mult">Multiplicação</string>
+    <string name="mni_Divi">Divisão</string>
+    <string name="txtNome">Henrique - MB</string>
+    <string name="txtCargo">Melhor aluno</string>
+
+</resources>

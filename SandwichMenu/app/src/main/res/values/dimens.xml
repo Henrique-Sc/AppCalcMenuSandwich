@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginN1">100dp</dimen>
+    <dimen name="marginN2">180dp</dimen>
+    <dimen name="marginN3">260dp</dimen>
+    <dimen name="marginN4">340dp</dimen>
+
+</resources>

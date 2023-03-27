@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mni_IMC"
+        android:title="@string/mni_IMC"
+        android:icon="@drawable/mni_imc"
+        />
+
+    <item
+        android:id="@+id/mni_Soma"
+        android:title="@string/mni_Soma"
+        android:icon="@drawable/mni_soma"
+        />
+
+    <item
+        android:id="@+id/mni_Sub"
+        android:title="@string/mni_Sub"
+        android:icon="@drawable/mni_sub"
+        />
+
+    <item
+        android:id="@+id/mni_Mult"
+        android:title="@string/mni_Mult"
+        android:icon="@drawable/mni_mult"
+        />
+
+    <item
+        android:id="@+id/mni_Divi"
+        android:title="@string/mni_Divi"
+        android:icon="@drawable/mni_divi"
+        />
+</menu>
